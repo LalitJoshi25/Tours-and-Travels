@@ -18,9 +18,9 @@ const App = () => {
       <Search/>
       <Support/>
       <Info/>
-      {/* <Lounge/>
+      <Lounge/>
       <Travelers/>
-      <Subscribe/>
+      {/* <Subscribe/>
       <Footer/> */}
     </div>
   )
